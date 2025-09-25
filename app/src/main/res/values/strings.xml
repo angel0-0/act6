@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">act6</string>
+    <string name="scene1_description">Frieren se encuentra en un momento de paz, rodeada de la naturaleza.</string>
+    <string name="next_scene_button">Siguiente Escena</string>
+    <string name="scene2_description">Frieren se enfrenta a su clon en batalla.</string>
+    <string name="previous_scene_button">Escena Anterior</string>
 </resources>
